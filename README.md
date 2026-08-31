@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Jaydeep Sarkar</h1>
 
-<h3 align="center">Backend Developer • AI/ML Enthusiast • Full-Stack Developer</h3>
+<h3 align="center">Backend Developer • AI/ML Enthusiast • Problem Solver</h3>
 
 <p align="center">
   <a href="https://github.com/Jaydeep-Sarkar-10">
@@ -12,123 +12,97 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student focused on **backend development, AI/ML, and problem solving**.
+I'm a Computer Science student passionate about **backend development, software engineering, and problem solving**.
 
-I enjoy building real-world applications with **Django, REST APIs, PostgreSQL, React, and AI-powered features**.
+I enjoy turning ideas into real applications, building REST APIs, working with databases, and occasionally convincing my code that the bug is actually a feature.
 
-* 🔭 Currently building **Finwise**, an AI-powered personal finance manager
-* 🌱 Currently learning **Backend Development, System Design & Advanced DSA**
-* 🧠 Solving **Data Structures & Algorithms** problems on LeetCode
-* 💡 Interested in building scalable backend systems and intelligent applications
-* 🚀 Always learning, building and improving
+* 💻 Focused on **Backend Development & Software Engineering**
+* 🧠 Strong interest in **Data Structures & Algorithms**
+* 🤖 Exploring **AI/ML and AI-powered applications**
+* 🛠️ Love building projects that solve actual problems
+* ☕ Powered by curiosity, debugging, and probably too much coffee
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
-</p>
-
-### Backend
+### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,python" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript" />
 </p>
 
-### Frontend
+**Java (DSA) • Python • C • C++ • JavaScript**
+
+### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=html,react,django" />
 </p>
 
-### Database
+**HTML • JavaScript • React • Django • Django REST Framework**
+
+### 🔌 Backend & APIs
+
+**REST APIs • Django REST Framework • API Development • Authentication**
+
+### 🗄️ Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
-### Tools & Platforms
+**PostgreSQL • MySQL**
+
+### 🧰 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,firebase,vercel,render,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode" />
 </p>
+
+**Git • GitHub • Firebase • VS Code**
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 💰 Finwise
 
-**AI-powered personal finance manager**
+**AI-Powered Personal Finance Manager**
 
-A full-stack finance application designed to help users track their income, expenses, savings and financial goals, with AI-powered financial insights.
+Finwise is a full-stack personal finance platform designed to help users understand and manage their finances through **transaction tracking, budgets, savings, financial goals, analytics, and AI-powered insights**.
 
-**Tech:** Django • Django REST Framework • PostgreSQL • React • Firebase
+**Built with:**
 
-🔗 [View Repository](https://github.com/Jaydeep-Sarkar-10/Finwise)
+`Django` `Django REST Framework` `PostgreSQL` `React` `Firebase`
 
----
-
-### 🏏 Jersey Hub
-
-**Full-stack sports jersey e-commerce platform**
-
-A modern e-commerce platform for football and cricket jerseys with authentication, product management and a React-based frontend.
-
-**Tech:** React • Django REST Framework • Firebase Authentication • JWT
-
-🔗 [View Repository](https://github.com/Jaydeep-Sarkar-10/jersey-hub)
-
----
-
-### 🤖 HunterAI
-
-**AI-powered job & internship discovery platform**
-
-A project focused on helping developers discover relevant job and internship opportunities using AI-powered features.
-
-**Tech:** AI/ML • Web Development • APIs
+🔗 **[View Finwise on GitHub](https://github.com/Jaydeep-Sarkar-10/Finwise)**
 
 ---
 
 ## 🧠 Data Structures & Algorithms
 
-I'm actively improving my problem-solving skills through **LeetCode**.
+**200+ problems solved on [LeetCode](https://leetcode.com/u/Jaydeep_Sarkar/) and counting.**
 
-* 🔹 80+ problems solved
-* 🔹 Arrays & Hashing
-* 🔹 Linked Lists
-* 🔹 Trees
-* 🔹 Recursion & Backtracking
-* 🔹 Binary Search
-* 🔹 Dynamic Programming
+I primarily use **Java** for DSA and regularly practice problems to strengthen my problem-solving and algorithmic thinking.
 
-> Consistency over perfection.
+### Areas I've Practiced
 
+* Arrays & Hashing
+* Strings
+* Linked Lists
+* Stacks & Queues
+* Binary Search
+* Trees & Binary Trees
+* Recursion & Backtracking
+* Dynamic Programming
+* Heaps & Priority Queues
+* Advanced Data Structures
+
+> 200+ problems solved. 0 guarantees that the next one won't humble me.
 ---
 
-## 📚 Currently Learning
-
-```text
-Backend Development
-       ↓
-Advanced Django & REST APIs
-       ↓
-PostgreSQL & Database Design
-       ↓
-System Design
-       ↓
-Advanced DSA
-       ↓
-AI/ML
-```
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jaydeep-Sarkar-10&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
@@ -141,12 +115,31 @@ AI/ML
 
 ---
 
+## 🎯 What I'm Interested In
+
+```text
+Backend Development
+        ↓
+REST APIs & System Architecture
+        ↓
+Database Design
+        ↓
+Data Structures & Algorithms
+        ↓
+AI/ML
+```
+
+I'm particularly interested in **building reliable backend systems, designing APIs, solving challenging problems, and exploring how AI can make software more useful.**
+
+---
+
 ## 🤝 Let's Connect
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/jaydeep-sarkar-5b1a47374/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
+
   <a href="https://github.com/Jaydeep-Sarkar-10">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
@@ -155,5 +148,5 @@ AI/ML
 ---
 
 <p align="center">
-  <b>💻 Build. Learn. Solve. Repeat. 🚀</b>
+  <b>Build. Break. Debug. Learn. Repeat. 🚀</b>
 </p>
