@@ -20,7 +20,6 @@ I enjoy turning ideas into real applications, building REST APIs, working with d
 * 🧠 Strong interest in **Data Structures & Algorithms**
 * 🤖 Exploring **AI/ML and AI-powered applications**
 * 🛠️ Love building projects that solve actual problems
-* ☕ Powered by curiosity, debugging, and probably too much coffee
 
 ---
 
