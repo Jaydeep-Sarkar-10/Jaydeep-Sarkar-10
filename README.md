@@ -14,7 +14,7 @@
 
 I'm a Computer Science student passionate about **backend development, software engineering, and problem solving**.
 
-I enjoy turning ideas into real applications, building REST APIs, working with databases, and occasionally convincing my code that the bug is actually a feature.
+I enjoy turning ideas into real applications, building REST APIs, working with databases.
 
 * 💻 Focused on **Backend Development & Software Engineering**
 * 🧠 Strong interest in **Data Structures & Algorithms**
