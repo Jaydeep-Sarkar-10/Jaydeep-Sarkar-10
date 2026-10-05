@@ -81,7 +81,7 @@ Finwise is a full-stack personal finance platform designed to help users underst
 
 ## 🧠 Data Structures & Algorithms
 
-**200+ problems solved on [LeetCode](https://leetcode.com/u/Jaydeep_Sarkar/) and counting.**
+**250+ problems solved on [LeetCode](https://leetcode.com/u/Jaydeep_Sarkar/) and counting.**
 
 I primarily use **Java** for DSA and regularly practice problems to strengthen my problem-solving and algorithmic thinking.
 
